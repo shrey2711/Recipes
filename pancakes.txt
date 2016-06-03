@@ -2,3 +2,6 @@ Flour
 egg
 baking soda
 milk
+
+Toppings:
+maple syrop
